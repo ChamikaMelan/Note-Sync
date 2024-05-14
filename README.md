@@ -1,2 +1,2 @@
-# Note Sync
+# Note Sync.
 
